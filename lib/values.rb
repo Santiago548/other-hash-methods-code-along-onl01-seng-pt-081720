@@ -10,6 +10,6 @@ require 'pry'
 
 
   #code your solution here!
-def get_the_values
-
+def get_the_values(groceries)
+  groceries.values
 end
