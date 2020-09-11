@@ -10,6 +10,6 @@ require 'pry'
 
 
   #code your solution here!
-def get_the_min
-
+def get_the_min(groceries)
+  groceries.min
 end
