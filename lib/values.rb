@@ -11,5 +11,5 @@ require 'pry'
 
   #code your solution here!
 def get_the_values
-  
+
 end
