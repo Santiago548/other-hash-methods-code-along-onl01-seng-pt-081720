@@ -8,6 +8,5 @@ require 'pry'
 #  grains: ["rice", "pasta"]
 # }
 
-s)
+
   #code your solution here!
-  
